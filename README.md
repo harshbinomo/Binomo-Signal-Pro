@@ -1,2 +1,3 @@
-# Binomo-Signal-Pro
-Signal Generator ✅
+# Binomo Signal App
+
+This is the frontend Flutter app for Binomo trading signals.
